@@ -28,7 +28,7 @@ El backend estará corriendo en el puerto **4000** y el frontend por su parte en
 
 El proyecto trabaja en relación a un Sistema de Reserva Hotelera, las entidades del mismo así como sus relaciones se muestran en la siguiente imagen:
 
-![Diagrama entidad relación](/images/ERD.png)
+![Diagrama entidad relación](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_01/images/ERD.png)
 
 ## Entidades asignadas a cada estudiante:
 - **Reseña**: Carreño Reyes Erick Roger
@@ -88,13 +88,14 @@ Ejecutamos la imagen y el contenedor respectivamente con los siguientes comandos
 
 A continuación se adjuntan capturas de las imágenes en Docker creadas, backend, frontend, y la base de datos ejecutándose con normalidad.
 
-![Imágenes en Docer](/images/docker-images.png)
+![Imágenes en DocKer](ttps://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_01/images/docker-images.png)
 
 
-![Backend corriendo](/images/backend.png)
+![Backend corriendo](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_01/images/backend.png
+)
 
 
-![Frontend corriendo](/images/frontend.png)
+![Frontend corriendo](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_01/images/frontend.png)
 
 
-![Base de datos corriendo](/images/mongo.png)
+![Base de datos corriendo](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_01/images/mongo.png)

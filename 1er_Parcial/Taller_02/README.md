@@ -36,16 +36,16 @@ npm run build
 
 A continuación se adjuntan capturas del adapter function creado, además de la ejecución de los contenedores, un ingreso desde el frontend y la visualización del log de registros desde el backend dentro del Docker.
 
-![Adapter function 1](/images/adapter_function01.png)
+![Adapter function 1](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_02/images/adapter_function01.png)
 
 
-![Adapter function 2](/images/adapter_function02.png)
+![Adapter function 2](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_02/images/adapter_function02.png)
 
 
-![Contenedores](/images/container.png)
+![Contenedores](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_02/images/container.png)
 
 
-![Frontend](/images/frontend_ln.png)
+![Frontend](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_02/images/frontend_ln.png)
 
 
-![Backend en docker](/images/backend_docker.png)
+![Backend en docker](https://github.com/luisdnavarrete22/Integ_SisPlat_9A/blob/main/1er_Parcial/Taller_02/images/backend_docker.png)

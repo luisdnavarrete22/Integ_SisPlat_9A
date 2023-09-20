@@ -46,6 +46,3 @@ A continuación se adjuntan capturas del adapter function creado, además de la 
 
 
 ![Frontend](/images/frontend_ln.png)
-
-
-![Backend en docker](/images/backend_docker.png)
